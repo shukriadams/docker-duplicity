@@ -1,2 +1,4 @@
 
 vagrant/qemu/.vagrant
+test.sh
+test
